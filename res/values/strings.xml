@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="r_u_working">Are you working?</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_yes">DisplayYes</string>
+    <string name="title_activity_display_no">DisplayNo</string>
+
+</resources>
