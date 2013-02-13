@@ -27,13 +27,15 @@ public class MainActivity extends Activity {
 		// mNButton = (Button)findViewById(R.id.no);
 		mMainText = (TextView) findViewById(R.id.mainText);
 
-		boolean working = false;
+		/*boolean working = false;
+		
 		while (working == false) {
 			// Make an alarm go off
 			// Notification
 			mMainText.setText("Are you working?");
 
 		}
+		*/
 
 	}
 
