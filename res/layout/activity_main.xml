@@ -12,12 +12,12 @@
         android:layout_gravity="center_horizontal"
         android:text="@string/r_u_working"
         android:textAppearance="?android:attr/textAppearanceLarge" />
-	
+
 	<LinearLayout 
 	    android:layout_width="match_parent"
 	    android:layout_height="wrap_content"
 	    android:orientation="horizontal" >	    
-	    
+
 	    <Button
         	android:id="@+id/yes"
         	android:layout_width="match_parent"
@@ -42,7 +42,7 @@
         android:layout_gravity="center_horizontal"
         android:text="@string/coolDown"
         android:textAppearance="?android:attr/textAppearanceLarge" />
-	
+
 	<LinearLayout 
 	    android:layout_width="match_parent"
 	    android:layout_height="wrap_content"
@@ -54,7 +54,7 @@
 	    	android:layout_height="wrap_content"
 	    	android:layout_weight="0.7"
 	    	android:inputType="number" />
-	
+
 		<Button
         	android:id="@+id/coolDownButton"
         	android:layout_width="wrap_content"
@@ -62,6 +62,6 @@
         	android:layout_weight="0.3"
         	android:text="@string/setCoolDown"
         	android:onClick="sendCoolDown" />
-		    
+
 	</LinearLayout>
  </LinearLayout>
