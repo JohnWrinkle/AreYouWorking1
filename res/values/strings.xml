@@ -12,5 +12,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_display_yes">DisplayYes</string>
     <string name="title_activity_display_no">DisplayNo</string>
+    <string name="coolDown">Set a cool down?</string>
+    <string name="setCoolDown">Set</string>
 
 </resources>
